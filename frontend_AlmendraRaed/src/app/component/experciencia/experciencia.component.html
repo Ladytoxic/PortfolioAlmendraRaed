@@ -1,0 +1,19 @@
+<div class="container" id="experiencia">
+    <h2 class="display-5 text-center">Experiencia Laboral</h2>
+    <div class="items-list ">
+      <div class="card border-warning mb-3 shadow p-3 mb-5 bg-body rounded" *ngFor="let experienciaLab of experienciaList">
+        <div class="row">
+          <div class="col-lg-10">
+            <h3 class="mt-0">{{experienciaLab.nombre}}</h3>
+            <p>Dirección: {{experienciaLab.descripcion}}</p>
+            <p><time>{{experienciaLab.desde}}</time> - <time>{{experienciaLab.hasta}}</time> </p>
+            <a href="{{experienciaLab.sitio}}" class="stretched-link">Ir Al sitio Web</a>
+          </div>
+          <div class="col">
+            <img [src]="experienciaLab.img" class="img-fluid rounded-start" alt="...">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>

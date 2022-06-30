@@ -1,0 +1,92 @@
+{
+    "nombre": "Almendra Romina Raed",
+    "edad": "30 años",
+    "acerca_de_mi": "Soy una mujer transgenero, Soy ilustradora y tambien soy autodicta en multiples areas tecnologicas.",
+    "banner": "https://raw.githubusercontent.com/Ladytoxic/almendrar/gh-pages/assets/banner2.png",
+    "avatar": "https://raw.githubusercontent.com/Ladytoxic/almendrar/gh-pages/assets/avatar.jpg",
+    "titulo": "Programadora Web Full-Stack Jr.",
+    "ubicacion": "Longchamps, Buenos Aires (Argentina)",
+    "github": "https://github.com/Ladytoxic",
+    "linkedin": "https://www.linkedin.com/in/almendra-romina",
+    "telegram": "https://t.me/LadyToxic",
+    "logotipo": "https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1653341386/APLogo-20-20.png",
+    "estudios": [
+        {
+            "escuela": "E.E.M N° 8 (Cnel. Luis Piedrabuena)",
+            "img": "https://cdn-icons-png.flaticon.com/512/66/66053.png",
+            "direccion": "Ramón Cabrero 1902, Remedios de Escalada, Provincia de Buenos Aires",
+            "titulo": "Bachillerato en Economía de las empresas (Incompleto)",
+            "inicio": "Marzo del 2010",
+            "nivel": "5to. (Incompleto)",
+            "sitio": "https://www.facebook.com/secundaria.piedrabuena"
+        },
+        {
+            "escuela": "Argentina Programa",
+            "img": "https://www.concordia.gob.ar/sites/all/themes/programar/images/arg-programa.png",
+            "direccion": "INTI (Instituto Nacional de Tecnología Industrial)",
+            "titulo": "Programadora Web Full-Stack Jr.",
+            "inicio": "Octubre del 2021 - Diciembre 2021",
+            "nivel": "#SeProgramar (Completo)",
+            "sitio": ""
+        },
+        {
+            "escuela": "Argentina Programa",
+            "img": "https://www.concordia.gob.ar/sites/all/themes/programar/images/arg-programa.png",
+            "direccion": "INTI (Instituto Nacional de Tecnología Industrial)",
+            "titulo": "Programadora Web Full-Stack Jr.",
+            "inicio": "Octubre del 2021",
+            "nivel": "#YoProgramo (Cursado)",
+            "sitio": ""
+        },
+        {
+            "escuela": "Alt Coopertiva",
+            "img": "https://altcooperativa.com/wp-content/themes/alt-cooperativa/img/logo.svg",
+            "direccion": "INTI (Instituto Nacional de Tecnología Industrial)",
+            "titulo": "Diseño y Desarrollo web",
+            "inicio": "Abril 2022",
+            "nivel": "(Cursado)",
+            "sitio": "https://altcooperativa.com/"
+        }
+    ],
+    "experiencia_laboral": [
+        {
+            "nombre": "Alexe'os Catering",
+            "img": "https://alexeos.000webhostapp.com/img/Alexeos%20Catering.png",
+            "descripcion": "Community manager, Diseño Grafico",
+            "desde": "2020",
+            "hasta": "2022"
+        },
+        {
+            "nombre": "Cooworking Eat Canning",
+            "img": "https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/130783027_102910055023070_6672515992558948388_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=100&ccb=1-7&_nc_sid=dd9801&efg=eyJpIjoidCJ9&_nc_ohc=Ns6pNq9-2-IAX841vq1&_nc_ht=scontent.feze8-2.fna&oh=00_AT_x_lRxWkC5SQZSLbu76WjkFLlXjWGUzYWdUE8DJJJxRw&oe=62E153FD",
+            "descripcion": "Community manager, Diseño Grafico",
+            "desde": "2019",
+            "hasta": "2021"
+        }
+    ],
+    "proyectos": [
+        {
+            "nombre": "",
+            "inicio": "",
+            "descripcion": "",
+            "img": ""
+        }
+    ],
+    "hard_soft_skills": [
+        {
+            "lenguaje": "Html",
+            "nivelConocimiento": "95",
+            "img": "https://cdn-icons-png.flaticon.com/512/732/732212.png"
+        },
+        {
+            "lenguaje": "Css",
+            "nivelConocimiento": "85",
+            "img": "https://cdn-icons-png.flaticon.com/512/732/732190.png"
+        },
+        {
+            "lenguaje": "Javascript",
+            "nivelConocimiento": "70",
+            "img": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+        }
+    ]
+}

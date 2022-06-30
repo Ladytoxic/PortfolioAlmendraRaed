@@ -1,0 +1,23 @@
+<div class="container" id="educacion">
+    <h2 class="display-5 text-center">Educación</h2>
+    <div class="row">
+        <div class="card border-warning mb-3 shadow p-3 mb-5 bg-body rounded" *ngFor="let estudios of educacionList">
+            <div class="row">
+                <div class="col-sm">
+                    <img [src]="estudios.img" class="img-fluid rounded-start">
+                </div>
+                <div class="col-lg-10">
+                    <div class="card-body">
+                        <h3 class="card-title"> {{estudios.escuela}}</h3>
+                        <p><strong>Dirección:</strong> {{estudios.direccion}}</p>
+                        <p><strong>Titulo:</strong> {{estudios.titulo}}</p>
+                        <p><strong>Fecha de Inicio:</strong> <time> {{estudios.inicio}}</time></p>
+                        <p><strong>Nivel alcanzado:</strong> {{estudios.nivel}}</p>
+                        <a href="{{estudios.sitio}}" class="stretched-link">Ir al sitio web</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
