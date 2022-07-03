@@ -15,6 +15,8 @@ import { ProyectoComponent } from './component/proyecto/proyecto.component';
 import { ContactoComponent } from './component/contacto/contacto.component';
 import { FooterComponent } from './component/footer/footer.component';
 import { LoginComponent } from './component/login/login.component';
+import { AppRoutingModule } from './app-routing.module';
+import { PortfolioComponent } from './component/portfolio/portfolio.component';
 
 @NgModule({
   declarations: [
@@ -28,11 +30,13 @@ import { LoginComponent } from './component/login/login.component';
     ProyectoComponent,
     ContactoComponent,
     FooterComponent,
-    LoginComponent
+    LoginComponent,
+    PortfolioComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
